@@ -1,0 +1,11 @@
+{
+  "name": "reto2",
+  "version": "1.0.0",
+  "description": "anagrama",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenshiro_dev",
+  "license": "ISC"
+}
